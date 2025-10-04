@@ -1,0 +1,90 @@
+.zagalovok {
+    color: #d6ecff;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.conteirnerfon {
+    background-color: aliceblue;
+    height: 120em;
+    width: 48em;
+    margin-left: 20em;
+    z-index: 0;
+}
+
+.conteirnerfon2 {
+    background-color: rgb(229, 229, 229);
+    height: 120em;
+    width: 15em;
+    margin-left: 59em;
+    margin-top: -120em;
+    z-index: 0;
+}
+
+.Cartoon {
+    margin-top: -50em;
+    font-size: 20px;
+    margin-left: 18em;
+}
+
+.oblogka1 {
+    width: 200px;
+    height: 300px;
+    top: -48em;
+    position: relative;
+    left: 46em;
+    z-index: 2;
+}
+
+body {
+    background-image: url("../изображения/фон.png");
+    background-repeat: no-repeat;
+    background-size: 90% auto;
+    background-attachment: fixed;
+    background-color: rgb(189, 91, 143);
+    background-position: center;
+
+}
+
+.table1 {
+    position: absolute;
+    left: 41em;
+    margin-top: -0.5em;
+}
+.interesn-fakt{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-right: 7em;
+    color: hotpink;
+    font-size: 2em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.conteirnerfact{
+    margin-top: -12em;
+}
+.DVD{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 6em;
+    margin-left: 10.5em;
+}
+.conteirnerfin{
+    margin-top: -69em;
+}
+.factonetwo{
+margin-left: 17em;
+font-size: 20px;
+
+}
+.onefact{color: rgb(13, 173, 13);}
+.twofact{color: rgb(3, 207, 207);}
+.threefact{color: rgb(237, 97, 46);}
+.fourfact{color: darkviolet;}
+.fivefact{color: rgb(177, 170, 72);}
+.sixfact{color: crimson;}
+.prinsebublgum{color: hotpink;}
+.humanfinn{color: rgb(19, 188, 203);}
+.dogjacke{color: gold;}
+.marseline{color: rgb(117, 6, 28);}
